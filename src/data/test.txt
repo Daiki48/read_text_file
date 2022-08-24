@@ -1,0 +1,4 @@
+hello rust!
+I am Daiki.
+I study rust lang.
+
